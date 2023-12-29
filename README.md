@@ -1,10 +1,10 @@
 # bluesky8885dev
-We to try and open public teaching for the general public who are interested. but lack the opportunity to study at an institution 
+We are committed and try open public teaching for the general public who are interested. But there is a lack of opportunity and capital to study at an institution.
 # Welcome to the GitHub classroom.
 Welcome to the educational learning room. To try and open public teaching for the general public who are interested. but lack the opportunity to study at an institution Bluesky8885dev  We are so glad you are here!
 In this training, you will find the basic courses  Git & GitHub fundamentals prepared for you.
 ## to start
-Your journey begins in Please Read README.md where you will set up everything you need to complete your training.
+Your journey begins in Please Read README.md where we will set up everything you need to complete your training.
 ## Work at your own pace
 There is no grade for this training. And GitHub Education staff will not review your work. But the room staff Bluesky8885dev classrooms will help take care of you. So you can explore as you please. We hope this training helps you get started with Git & GitHub fundamentals  ( https://classroom.github.com/a/hsk0F_V0 ) .
 If you're new to Markdown, you might want to start with " Basic writing and formatting syntax" or the Communicate using Markdown GitHub Skills course.
